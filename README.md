@@ -27,7 +27,7 @@ LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani-b41493187/)
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SaeqaSultani/Portfolio-Project/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/Awesome-books-with-ES6/issues).
 
 # Show your support
 Give a ⭐️ if you like this project!
@@ -37,4 +37,4 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 # 📝 License
-This project is [MIT](https://github.com/SaeqaSultani/Portfolio-Project/blob/mobile_menu/MIT.md) licensed.
+This project is [MIT](https://github.com/SaeqaSultani/Awesome-books-with-ES6/blob/Awesome-books-with-ES6/MIT.md) licensed.
