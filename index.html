@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./index.css">
+        <title>Awesome Books With ES6</title>
+    </head>
+
+    <body>
+
+        <div class="div-nav">
+            <header class="head">
+                <h1>Library</h1>
+                <nav class="nav">
+                    <a id="listBook" class="nav-link" href="#container-list">List Book</a>
+                    <a id="addBook" class="nav-link" href="#bookForm">Add Book</a>
+                    <a id="countact" class="nav-link" href="#countactUs">Contact Us</a>
+                </nav>
+            </header>
+        </div>
+
+        <div class="time"><p id="time"></p></div>
+
+        <div class="container-list" id="container-list">
+            
+        </div>
+        
+        <form class="form" method="post" id="bookForm">
+            <h2 class="add-book">Add a new book</h2>
+            <input class="input" type="text" name="title" id="title" placeholder = "Book title">
+            <input class="input" type="text" name="author" id="author" placeholder = "Book author">
+            <button class="submit" id="btnAdd" type="button">Add</button>
+          </form>
+
+          <div class="contact" id="countactUs">
+            <h1>Conatct Us</h1>
+            <p>If you attend any problem in here please report to us</p>
+              <ul>
+                <li>libraray@thunderacademy.com</li>
+                <li>+93789423900</li>
+              </ul>
+          </div>
+          
+          <footer class="footer">
+            <div class="div-footer">
+                <ul>
+                    <li><a href="#"><img class="image" src="images/twitter.png" alt="twitter"></a></li>
+                    <li><a href="#"><img class="image" src="images/git.png" alt="github"></a></li>
+                    <li><a href="#"><img class="image" src="images/linkedin.png" alt="linkedin"></a></li>
+                </ul>
+            </div>
+          </footer>
+
+        <script type="module" src="index.js"></script>
+      </body>
+
+</html>

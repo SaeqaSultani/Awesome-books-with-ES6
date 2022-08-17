@@ -1,0 +1,33 @@
+{
+  "name": "awesome-books-with-es6",
+  "version": "1.0.0",
+  "description": "this is a portfolio project that the purpose of this project is to understand how to use basic JavaScript syntax,\r use JavaScript to manipulate DOM elements,use JavaScript events.and also in this project we use form  JavaScript + HTML + CSS linters for check the linters errors ,.eslintrc.json file for chech the javascript errors locally,.stylelintrc.json file for check the css errors locally and .hintrc file for check the html errors locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaeqaSultani/Awesome-books-with-ES6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaeqaSultani/Awesome-books-with-ES6/issues"
+  },
+  "homepage": "https://github.com/SaeqaSultani/Awesome-books-with-ES6#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "hint": "^7.1.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "luxon": "^3.0.1"
+  }
+}
